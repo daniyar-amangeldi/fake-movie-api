@@ -1,14 +1,100 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "movie_list": [
+    {
+      "id": "d584b1b2-0151-4de4-9747-f4f0e50957be",
+      "title": "Venom Let There Be Carnage",
+      "rating": 6.4,
+      "genre": "Horror",
+      "duration": 120,
+      "image_url": "https://www.movieposters.com/cdn/shop/products/venom-let-there-be-carnage_ocyw6fvh_480x.progressive.jpg?v=1639601513"
+    },
+    {
+      "id": "7bde0b4f-b474-40b1-8b85-6a6e7a5a9c10",
+      "title": "The Dark Knight",
+      "rating": 9,
+      "genre": "Action",
+      "duration": 152,
+      "image_url": "https://www.movieposters.com/cdn/shop/files/darkknight.building.24x36_20e90057-f673-4cc3-9ce7-7b0d3eeb7d83_480x.progressive.jpg?v=1707491191"
+    },
+    {
+      "id": "2ab47a1a-cfd7-4f26-aec8-c02c71d6e8bc",
+      "title": "Inception",
+      "rating": 8.8,
+      "genre": "Sci-Fi",
+      "duration": 148,
+      "image_url": "https://www.movieposters.com/cdn/shop/files/inception.mpw.123395_9e0000d1-bc7f-400a-b488-15fa9e60a10c_480x.progressive.jpg?v=1708527589"
+    },
+    {
+      "id": "e5a907b9-f4c9-4fd5-a0f5-e06b0abbe8e6",
+      "title": "Interstellar",
+      "rating": 8.6,
+      "genre": "Sci-Fi",
+      "duration": 169,
+      "image_url": "https://www.movieposters.com/cdn/shop/files/interstellar-139400_480x.progressive.jpg?v=1708527834"
+    },
+    {
+      "id": "317a5eb4-3e62-4d62-b4a9-9b99f11b5e95",
+      "title": "Avengers: Endgame",
+      "rating": 8.4,
+      "genre": "Action",
+      "duration": 181,
+      "image_url": "https://www.movieposters.com/cdn/shop/products/108b520c55e3c9760f77a06110d6a73b_e97cf224-d57f-44e3-8477-4f5479cd746b_480x.progressive.jpg?v=1573616089"
+    },
+    {
+      "id": "f5c8a2c8-5d49-4261-a97a-b9d8d1428e23",
+      "title": "Joker",
+      "rating": 8.4,
+      "genre": "Drama",
+      "duration": 122,
+      "image_url": "https://www.movieposters.com/cdn/shop/products/JOKER.PW.REP_480x.progressive.jpg?v=1574965207"
+    },
+    {
+      "id": "d858f9b7-57d2-4d3c-9573-0b90e189f7c8",
+      "title": "The Matrix",
+      "rating": 8.7,
+      "genre": "Sci-Fi",
+      "duration": 136,
+      "image_url": "https://www.movieposters.com/cdn/shop/files/Matrix.mpw.102176_bb2f6cc5-4a16-4512-881b-f855ead3c8ec_480x.progressive.jpg?v=1708703624"
+    },
+    {
+      "id": "4b457fbb-5a57-41b2-8ed8-518e4fb9b888",
+      "title": "Spider-Man: No Way Home",
+      "rating": 8.3,
+      "genre": "Action",
+      "duration": 148,
+      "image_url": "https://www.movieposters.com/cdn/shop/products/spider-man-no-way-home_0qwdfqor_480x.progressive.jpg?v=1643303810"
+    },
+    {
+      "id": "bc2455b1-10a9-4b91-bc54-071ccfb329f2",
+      "title": "Shawshank Redemption",
+      "rating": 9.3,
+      "genre": "Drama",
+      "duration": 142,
+      "image_url": "https://www.movieposters.com/cdn/shop/files/shawshank_eb84716b-efa9-44dc-a19d-c17924a3f7df_480x.progressive.jpg?v=1709821984"
+    },
+    {
+      "id": "dbf9b9c5-3f27-4cb5-a5a6-b10a5ea3b5e0",
+      "title": "Pulp Fiction",
+      "rating": 8.9,
+      "genre": "Crime",
+      "duration": 154,
+      "image_url": "https://www.movieposters.com/cdn/shop/products/950e439404c3d5eddd86ae876cec83bf_949b5045-2503-4883-bcd2-ff1f31f5b14c_480x.progressive.jpg?v=1573588746"
+    },
+    {
+      "id": "2d5733f9-4fa5-453e-870f-79169bb6c064",
+      "title": "Fight Club",
+      "rating": 8.8,
+      "genre": "Drama",
+      "duration": 139,
+      "image_url": "https://www.movieposters.com/cdn/shop/files/FightClub_480x.progressive.jpg?v=1682450032"
+    },
+    {
+      "id": "adf1a3f3-4c70-42ab-b1c6-fd8fbcf53f6f",
+      "title": "Forrest Gump",
+      "rating": 8.8,
+      "genre": "Drama",
+      "duration": 142,
+      "image_url": "https://www.movieposters.com/cdn/shop/products/forrest-gump---24x36_480x.progressive.jpg?v=1645558337"
+    }
+  ]
 }
